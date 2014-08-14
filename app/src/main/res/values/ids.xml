@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txtItem" type="id">Item</item>
+    <item name="btnAdd" type="id">Add</item>
+    <item name="listItems" type="id">ItemList</item>
+</resources>
